@@ -23,3 +23,4 @@ let personnage2 = new Personnage (26 , "Farhad", "Bxl")
 
 personnage1.sePrésenter()
 personnage2.sePrésenter()
+
